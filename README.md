@@ -1,4 +1,4 @@
-# Java-basit-k-t-phane
+# Java-rastgeleKutuphanesi
 Elle yazılmış bir random fonksiyonu ve bunun harfler üzerinde kullanımı.Rastgele karakter, cümle harf gibi şeylerin yanında belirtilen harfler ile ve harf aralığında rastgele harfler döndürür
 
 <code>RastgeleKarakter</code>: sınıf ismi </br>
